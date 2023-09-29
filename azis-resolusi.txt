@@ -1,0 +1,3 @@
+AZIZ RESOLUSI
+-Konsisten untuk belajar laravel 2x seminggi 
+-membuat aplikasi sederhana
