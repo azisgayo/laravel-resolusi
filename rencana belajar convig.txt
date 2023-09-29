@@ -12,3 +12,4 @@ RENCANA BELAJAR CONFIG
 -cache
 - database
  ^sql
+ ^maria DB
