@@ -6,3 +6,4 @@ RENCANA BELAJAR CONFIG
 -auth
 -broadcasting
 -cache
+- database
