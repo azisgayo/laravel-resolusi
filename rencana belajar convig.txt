@@ -1,6 +1,8 @@
 RENCANA BELAJAR CONFIG
 -intro
 -app
+ *1
+ *2
 -auth
 -broadcasting
 -cache
