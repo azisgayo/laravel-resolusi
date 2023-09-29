@@ -4,7 +4,11 @@ RENCANA BELAJAR CONFIG
  *1
  *2
 -auth
- ^D
+-cache
+ ^A
+ ^B
+ ^C
+-broadcasting
 -cache
 - database
-^maria db
+ ^maria DB
