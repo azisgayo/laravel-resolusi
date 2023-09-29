@@ -4,6 +4,11 @@ RENCANA BELAJAR CONFIG
  *1
  *2
 -auth
+ ^A
+ ^B
+ ^C
+
 -broadcasting
 -cache
 - database
+ ^sql
